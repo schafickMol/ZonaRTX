@@ -60,19 +60,19 @@ GO
 
 
 --Procesos de Almacenado Usuarios.
-CREATE PROCEDURE sp_CrearUsuario
+ALTER PROCEDURE sp_CrearUsuario
     @nombre NVARCHAR(100),
     @apellido NVARCHAR(100),
     @correo NVARCHAR(100),
-    @contraseña NVARCHAR(100)
+    @contrasena NVARCHAR(100) -- Actualizado
 AS
 BEGIN
-    INSERT INTO Usuarios (nombre, apellido, email, contraseña)
-    VALUES (@nombre, @apellido, @correo, @contraseña);
+    INSERT INTO Usuarios (nombre, apellido, email, contrasena) -- Actualizado
+    VALUES (@nombre, @apellido, @correo, @contrasena);
 END;
 GO
 
-CREATE PROCEDURE sp_ObtenerUsuarios
+ALTER PROCEDURE sp_ObtenerUsuarios
 AS
 BEGIN
     SELECT id_usuario, nombre, apellido, email
@@ -80,23 +80,24 @@ BEGIN
 END;
 GO
 
-CREATE PROCEDURE sp_ActualizarUsuario
+ALTER PROCEDURE sp_ActualizarUsuario
     @id_usuario INT,
     @nombre NVARCHAR(100),
     @apellido NVARCHAR(100),
     @correo NVARCHAR(100),
-    @contraseña NVARCHAR(100)
+    @contrasena NVARCHAR(100) -- Actualizado
 AS
 BEGIN
     UPDATE Usuarios
     SET nombre = @nombre,
         apellido = @apellido,
         email = @correo,
-        contraseña = @contraseña
+        contrasena = @contrasena -- Actualizado
     WHERE id_usuario = @id_usuario;
 END;
 GO
-CREATE PROCEDURE sp_EliminarUsuario
+
+ALTER PROCEDURE sp_EliminarUsuario
     @id_usuario INT
 AS
 BEGIN
@@ -104,7 +105,7 @@ BEGIN
 END;
 GO
 
-CREATE PROCEDURE sp_ObtenerUsuarioPorID
+ALTER PROCEDURE sp_ObtenerUsuarioPorID
     @id_usuario INT
 AS
 BEGIN
@@ -113,8 +114,6 @@ BEGIN
     WHERE id_usuario = @id_usuario;
 END;
 GO
-
-
 
 -- Categorias
 CREATE PROCEDURE sp_CrearCategoria
