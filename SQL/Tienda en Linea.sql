@@ -12,7 +12,7 @@ CREATE TABLE Usuarios (
 	nombre NVARCHAR(100)NOT NULL,
 	apellido NVARCHAR(100) NOT NULL,
     email NVARCHAR(100) NOT NULL UNIQUE,
-    contraseña NVARCHAR(100) NOT NULL,
+    contrasena NVARCHAR(100) NOT NULL
 );
 GO
 
@@ -53,6 +53,77 @@ CREATE TABLE Inventario (
     FOREIGN KEY (id_producto) REFERENCES Productos(id_producto) ON DELETE CASCADE
 );
 GO
+
+CREATE TABLE DetallePedidos (
+    id_detalle INT IDENTITY(1,1) PRIMARY KEY,
+    id_pedido INT NOT NULL,
+    id_producto INT NOT NULL,
+    cantidad INT NOT NULL,
+    precio_unitario DECIMAL(10, 2) NOT NULL,
+    FOREIGN KEY (id_pedido) REFERENCES Pedidos(id_pedido) ON DELETE CASCADE,
+    FOREIGN KEY (id_producto) REFERENCES Productos(id_producto) ON DELETE CASCADE
+);
+GO
+
+
+
+
+CREATE TABLE Proveedores (
+    id_proveedor INT IDENTITY(1,1) PRIMARY KEY,
+    nombre NVARCHAR(100) NOT NULL,
+    contacto NVARCHAR(100),
+    telefono NVARCHAR(20),
+    email NVARCHAR(100) UNIQUE
+);
+GO
+
+CREATE TABLE ProductosProveedores (
+    id_producto INT NOT NULL,
+    id_proveedor INT NOT NULL,
+    precio_compra DECIMAL(10, 2),
+    FOREIGN KEY (id_producto) REFERENCES Productos(id_producto) ON DELETE CASCADE,
+    FOREIGN KEY (id_proveedor) REFERENCES Proveedores(id_proveedor) ON DELETE CASCADE,
+    PRIMARY KEY (id_producto, id_proveedor)
+);
+
+CREATE TRIGGER tr_ActualizarInventario
+ON DetallePedidos
+AFTER INSERT
+AS
+BEGIN
+    IF EXISTS (
+        SELECT 1
+        FROM Inventario inv
+        INNER JOIN inserted i ON inv.id_producto = i.id_producto
+        WHERE inv.stock_actual < i.cantidad
+    )
+    BEGIN
+        RAISERROR ('No hay suficiente stock para el producto', 16, 1);
+        ROLLBACK TRANSACTION;
+    END
+    ELSE
+    BEGIN
+        UPDATE Inventario
+        SET stock_actual = stock_actual - i.cantidad
+        FROM Inventario inv
+        INNER JOIN inserted i ON inv.id_producto = i.id_producto;
+    END
+END;
+
+SELECT * 
+FROM INFORMATION_SCHEMA.REFERENTIAL_CONSTRAINTS;
+
+-- Usuario de prueba
+EXEC sp_CrearUsuario 'Juan', 'Pérez', 'juan.perez@email.com', 'password123';
+
+-- Categoría de prueba
+EXEC sp_CrearCategoria 'Electrónica', 'Dispositivos electrónicos y accesorios';
+
+-- Producto de prueba
+EXEC sp_CrearProducto 'Laptop', 'Laptop gaming de alta gama', 1200.00, 1;
+
+-- Pedido de prueba
+EXEC sp_CrearPedido 1, 1200.00;
 
 /**********************
 			PROCESOS DE ALMACENADO
@@ -337,6 +408,70 @@ BEGIN
     FROM Inventario i
     INNER JOIN Productos p ON i.id_producto = p.id_producto
     WHERE i.id_inventario = @id_inventario;
+END;
+GO
+
+
+CREATE PROCEDURE sp_InsertarDetallePedido
+    @id_pedido INT,
+    @id_producto INT,
+    @cantidad INT,
+    @precio_unitario DECIMAL(10, 2)
+AS
+BEGIN
+    INSERT INTO DetallePedidos (id_pedido, id_producto, cantidad, precio_unitario)
+    VALUES (@id_pedido, @id_producto, @cantidad, @precio_unitario);
+END;
+GO
+
+CREATE PROCEDURE sp_ObtenerDetallesPedido
+    @id_pedido INT
+AS
+BEGIN
+    SELECT dp.id_detalle, dp.id_producto, p.nombre_producto, dp.cantidad, dp.precio_unitario,
+           (dp.cantidad * dp.precio_unitario) AS subtotal
+    FROM DetallePedidos dp
+    INNER JOIN Productos p ON dp.id_producto = p.id_producto
+    WHERE dp.id_pedido = @id_pedido;
+END;
+GO
+
+
+CREATE PROCEDURE sp_ActualizarDetallePedido
+    @id_detalle INT,
+    @cantidad INT,
+    @precio_unitario DECIMAL(10, 2)
+AS
+BEGIN
+    UPDATE DetallePedidos
+    SET cantidad = @cantidad,
+        precio_unitario = @precio_unitario
+    WHERE id_detalle = @id_detalle;
+END;
+GO
+
+CREATE PROCEDURE sp_EliminarDetallePedido
+    @id_detalle INT
+AS
+BEGIN
+    DELETE FROM DetallePedidos
+    WHERE id_detalle = @id_detalle;
+END;
+GO
+
+CREATE PROCEDURE sp_CalcularTotalPedido
+    @id_pedido INT
+AS
+BEGIN
+    DECLARE @total DECIMAL(10, 2);
+
+    SELECT @total = SUM(dp.cantidad * dp.precio_unitario)
+    FROM DetallePedidos dp
+    WHERE dp.id_pedido = @id_pedido;
+
+    UPDATE Pedidos
+    SET total = @total
+    WHERE id_pedido = @id_pedido;
 END;
 GO
 
