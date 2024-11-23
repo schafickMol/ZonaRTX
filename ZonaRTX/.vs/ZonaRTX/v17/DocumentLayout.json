@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\categoriasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\categoriasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\categoriasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\categoriasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\detallespedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\detallespedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\productosproveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\productosproveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -34,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,13 +54,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "ProductosProveedoresModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductosProveedoresModel.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
+              "RelativeToolTip": "Models\\ProductosProveedoresModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:52:52.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProveedoresModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProveedoresModel.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
+              "RelativeToolTip": "Models\\ProveedoresModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:43:51.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetallesPedidosModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\DetallesPedidosModel.cs",
+              "RelativeDocumentMoniker": "Models\\DetallesPedidosModel.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\DetallesPedidosModel.cs",
+              "RelativeToolTip": "Models\\DetallesPedidosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:33:36.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "InventarioModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
               "RelativeDocumentMoniker": "Models\\InventarioModel.cs",
               "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
               "RelativeToolTip": "Models\\InventarioModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:31:08.416Z",
               "EditorCaption": ""
@@ -61,40 +112,40 @@
               "RelativeDocumentMoniker": "Models\\PedidosModel.cs",
               "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
               "RelativeToolTip": "Models\\PedidosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:30:38.673Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "ProductosModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductosModel.cs",
               "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
               "RelativeToolTip": "Models\\ProductosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:30:26.163Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "CategoriasModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\CategoriasModel.cs",
               "RelativeDocumentMoniker": "Models\\CategoriasModel.cs",
               "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\CategoriasModel.cs",
               "RelativeToolTip": "Models\\CategoriasModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-21T01:30:11.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "UsuariosModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
               "RelativeDocumentMoniker": "Models\\UsuariosModel.cs",
@@ -107,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -115,8 +166,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-20T03:01:05.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-20T03:01:05.806Z"
             }
           ]
         }
