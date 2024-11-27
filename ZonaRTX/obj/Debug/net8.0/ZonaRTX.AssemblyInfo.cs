@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZonaRTX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8005ceffe96145dbe62c898c9ccd02f0cc5cd431")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05ccccbed1a3ad4d1bd0e1f4470fb847276eceee")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZonaRTX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZonaRTX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
