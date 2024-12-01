@@ -2,6 +2,7 @@
 using ZonaRTX.Models;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.Data.SqlClient;
 
 namespace ZonaRTX.data
 {
@@ -33,9 +34,19 @@ namespace ZonaRTX.data
         {
             using var connection = _db.GetConnection();
             const string sql = @"INSERT INTO Categorias (nombre_categoria, descripcion)
-                                 VALUES (@nombre_categoria, @descripcion)";
-            return await connection.ExecuteAsync(sql, entity);
+                         VALUES (@nombre_categoria, @descripcion)";
+
+            // Crear un objeto anónimo sin el campo id_categoria
+            var parameters = new
+            {
+                nombre_categoria = entity.nombre_categoria,
+                descripcion = entity.descripcion
+            };
+
+            return await connection.ExecuteAsync(sql, parameters);
         }
+
+
 
         public async Task<int> UpdateAsync(CategoriasModel entity)
         {
@@ -49,9 +60,18 @@ namespace ZonaRTX.data
 
         public async Task<int> DeleteAsync(int id)
         {
-            using var connection = _db.GetConnection();
-            const string sql = "DELETE FROM Categorias WHERE id_categoria = @id";
-            return await connection.ExecuteAsync(sql, new { id });
+            try
+            {
+                using var connection = _db.GetConnection();
+                const string sql = "DELETE FROM Categorias WHERE id_categoria = @id";
+                return await connection.ExecuteAsync(sql, new { id });
+            }
+            catch (SqlException ex)
+            {
+                Console.WriteLine($"Error de SQL: {ex.Message}");
+                throw;
+            }
         }
+
     }
 }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OayC7HuTGzU/hS/wx8bNXwy2GWiGzVXvs188nzuXIvc=",
+  "Hash": "+MXj9XlN4qUXe/X8lUaEEm+LXdnJJ9ENUN1eGBzImzQ=",
   "Source": "ZonaRTX",
   "BasePath": "_content/ZonaRTX",
   "Mode": "Default",
@@ -965,6 +965,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\wwwroot\\lib\\images\\laptop.png",
+      "SourceId": "ZonaRTX",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\wwwroot\\",
+      "BasePath": "_content/ZonaRTX",
+      "RelativePath": "lib/images/laptop.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\images\\laptop.png"
     },
     {
       "Identity": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\wwwroot\\lib\\jquery\\dist\\jquery.js",

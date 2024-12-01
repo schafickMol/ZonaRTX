@@ -19,17 +19,38 @@
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
+                        <!-- Home -->
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Categorias" asp-action="Index">Categorias</a>
+
+                        <!-- Menú desplegable para tablas -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Administración
+                            </a>
+                            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                <li><a class="dropdown-item" asp-controller="Categorias" asp-action="Index">Categorias</a></li>
+                                <li><a class="dropdown-item" asp-controller="Inventario" asp-action="Index">Inventario</a></li>
+                                <li><a class="dropdown-item" asp-controller="Pedidos" asp-action="Index">Pedidos</a></li>
+                                <li><a class="dropdown-item" asp-controller="Productos" asp-action="Index">Productos</a></li>
+                                <li><a class="dropdown-item" asp-controller="Proveedores" asp-action="Index">Proveedores</a></li>
+                                
+                            </ul>
+                        </li>
+                        <li>
+                            <a class="dropdown-item" asp-controller="DetallesPedidos" asp-action="Index">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bag" viewBox="0 0 16 16">
+                                    <path d="M8 1a2.5 2.5 0 0 1 2.5 2.5V4h-5v-.5A2.5 2.5 0 0 1 8 1m3.5 3v-.5a3.5 3.5 0 1 0-7 0V4H1v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V4zM2 5h12v9a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1z" />
+                                </svg>
+                            </a>
                         </li>
                     </ul>
                 </div>
+
             </div>
         </nav>
     </header>

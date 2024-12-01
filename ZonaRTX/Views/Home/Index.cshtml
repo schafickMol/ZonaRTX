@@ -1,8 +1,29 @@
-﻿@{
+﻿@model IEnumerable<ZonaRTX.Models.ProductosModel>
+
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">Bienvenido a nuestra Tienda</h1>
+    <p>¡Compra los mejores productos ahora!</p>
+</div>
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4">
+            <div class="card" style="width: 18rem;">
+                <img src="~/lib/images/laptop.png" class="card-img-top" alt="@item.nombre_producto" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.nombre_producto</h5>
+                    <p class="card-text">@item.descripcion</p>
+                    <p class="card-text"><strong>Precio: </strong>@item.precio</p>
+                    <!-- Cambia el controlador y acción a 'Compra' y 'Comprar' -->
+                    <a href="@Url.Action("Comprar", "Compra", new { id_producto = item.id_producto })"
+                       class="btn btn-primary">Comprar</a>
+                </div>
+            </div>
+        </div>
+    }
 </div>

@@ -13,7 +13,7 @@ builder.Services.AddScoped<IBaseRepository<CategoriasModel>, BaseRepository<Cate
 builder.Services.AddScoped<IBaseRepository<DetallesPedidosModel>, BaseRepository<DetallesPedidosModel>>();
 builder.Services.AddScoped<IBaseRepository<InventarioModel>, BaseRepository<InventarioModel>>();
 builder.Services.AddScoped<IBaseRepository<PedidosModel>, BaseRepository<PedidosModel>>();
-builder.Services.AddScoped<IBaseRepository<ProductosModel>, BaseRepository<ProductosModel>>();
+//.Services.AddScoped<IBaseRepository<ProductosModel>, BaseRepository<ProductosModel>>();
 builder.Services.AddScoped<IBaseRepository<ProductosProveedoresModel>, BaseRepository<ProductosProveedoresModel>>();
 builder.Services.AddScoped<IBaseRepository<ProveedoresModel>, BaseRepository<ProveedoresModel>>();
 builder.Services.AddScoped<IBaseRepository<UsuariosModel>, BaseRepository<UsuariosModel>>();
@@ -30,6 +30,11 @@ builder.Services.AddScoped<ProductosController>();
 builder.Services.AddScoped<ProductosProveedoresController>();
 builder.Services.AddScoped<ProveedoresController>();
 builder.Services.AddScoped<UsuariosController>();
+builder.Services.AddScoped<IProductosRepository, ProductosRepository>();
+builder.Services.AddScoped<IBaseRepository<DetallesPedidosModel>, DetallesPedidosRepository>();
+builder.Services.AddScoped<IBaseRepository<ProductosModel>, ProductosRepository>();
+
+
 
 var app = builder.Build();
 

@@ -1,6 +1,88 @@
 ﻿@{
     ViewData["Title"] = "Privacy Policy";
 }
-<h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            line-height: 1.6;
+            font-size: 18px;
+            margin: 20px;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .highlight {
+            color: #3498db;
+            font-weight: bold;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #2c3e50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>@ViewData["Title"]</h1>
+    </header>
+
+    <div class="container">
+        <p>Bienvenido a <span class="highlight">ZONARTX</span>, tu espacio privado de ventas. En ZONARTX, nos especializamos en ofrecer productos exclusivos para nuestros clientes más selectos. Este sitio es de acceso restringido y está destinado a proporcionar una experiencia personalizada, con opciones y servicios que garantizan la privacidad y seguridad en todas tus compras.</p>
+
+        <p>En esta página, encontrarás detalles sobre nuestra política de privacidad y cómo manejamos tus datos. Nos comprometemos a proteger tu información personal y a ofrecerte una plataforma segura y confiable.</p>
+
+        <p>Por favor, revisa detenidamente nuestra política para entender cómo usamos, compartimos y protegemos tu información al interactuar con nuestra plataforma.</p>
+
+        <h2>Cómo protegemos tus datos</h2>
+        <p>En ZONARTX, implementamos medidas de seguridad avanzadas para proteger tu información personal. Utilizamos protocolos de encriptación y otras prácticas de seguridad para garantizar que tus datos estén seguros en todo momento.</p>
+
+        <h2>Uso de cookies</h2>
+        <p>Utilizamos cookies para mejorar tu experiencia en nuestra plataforma. Al continuar navegando en nuestro sitio, aceptas nuestra política de cookies. Las cookies nos ayudan a personalizar tu experiencia y a ofrecerte productos que pueden interesarte.</p>
+
+        <h2>Derechos de los usuarios</h2>
+        <p>Como usuario de ZONARTX, tienes derecho a acceder, rectificar o eliminar tus datos personales en cualquier momento. Si deseas ejercer alguno de estos derechos, por favor contáctanos a través de nuestra sección de <a href="https://github.com/schafickMol">contacto</a>.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 ZONARTX. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿@model IEnumerable<ZonaRTX.Models.DetallesPedidosModel>
+
+@{
+    ViewData["Title"] = "Detalles del Pedido";
+}
+
+<h1>Detalles del Pedido</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Producto</th>
+            <th>Cantidad</th>
+            <th>Precio Unitario</th>
+            <th>Subtotal</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.id_producto</td>
+                <td>@item.cantidad</td>
+                <td>@item.precio_unitario</td>
+                <td>@(item.cantidad * item.precio_unitario)</td>
+                <td>
+                    <!-- Botón para agregar otro -->
+                    <form method="get" asp-action="Comprar" asp-controller="Compra">
+                        <input type="hidden" name="id_producto" value="@item.id_producto" />
+                        <button type="submit" class="btn btn-success">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-plus-square-fill" viewBox="0 0 16 16">
+                                <path d="M2 0a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V2a2 2 0 0 0-2-2zm6.5 4.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3a.5.5 0 0 1 1 0" />
+                            </svg>
+                        </button>
+                    </form>
+
+                    <!-- Botón para eliminar -->
+                    <form method="post" asp-action="Eliminar" asp-controller="DetallesPedidos" style="display:inline;">
+                        <input type="hidden" name="id_detalle" value="@item.id_detalle" />
+                        <button type="submit" class="btn btn-danger">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash-fill" viewBox="0 0 16 16">
+                                <path d="M2.5 1a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1H3v9a2 2 0 0 0 2 2h6a2 2 0 0 0 2-2V4h.5a1 1 0 0 0 1-1V2a1 1 0 0 0-1-1H10a1 1 0 0 0-1-1H7a1 1 0 0 0-1 1zm3 4a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 .5-.5M8 5a.5.5 0 0 1 .5.5v7a.5.5 0 0 1-1 0v-7A.5.5 0 0 1 8 5m3 .5v7a.5.5 0 0 1-1 0v-7a.5.5 0 0 1 1 0" />
+                            </svg>
+                        </button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

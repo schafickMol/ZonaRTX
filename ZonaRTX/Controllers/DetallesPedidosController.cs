@@ -8,83 +8,63 @@ namespace ZonaRTX.Controllers
     public class DetallesPedidosController : Controller
     {
         private readonly IBaseRepository<DetallesPedidosModel> _repository;
+        private readonly IBaseRepository<ProductosModel> _productoRepository;
 
-        public DetallesPedidosController(IBaseRepository<DetallesPedidosModel> repository)
+        public DetallesPedidosController(
+            IBaseRepository<DetallesPedidosModel> repository,
+            IBaseRepository<ProductosModel> productoRepository)
         {
             _repository = repository;
+            _productoRepository = productoRepository;
         }
+
 
         public async Task<IActionResult> Index()
         {
+            // Obtener todos los detalles de pedidos desde el repositorio
             var detallesPedidos = await _repository.GetAllAsync();
+
+            // Pasar los detalles a la vista
             return View(detallesPedidos);
         }
 
-        public async Task<IActionResult> Details(int id)
-        {
-            var detallePedido = await _repository.GetByIdAsync(id);
-            if (detallePedido == null)
-            {
-                return NotFound();
-            }
-            return View(detallePedido);
-        }
-
-        public IActionResult Create()
-        {
-            return View();
-        }
-
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(DetallesPedidosModel model)
+        public async Task<IActionResult> Eliminar(int id_detalle)
         {
-            if (ModelState.IsValid)
+            var result = await _repository.DeleteAsync(id_detalle);
+            if (result == 0)
             {
-                await _repository.InsertAsync(model);
-                return RedirectToAction(nameof(Index));
+                return NotFound(); // Si no se eliminó ningún registro
             }
-            return View(model);
+            return RedirectToAction("Index");
         }
 
-        public async Task<IActionResult> Edit(int id)
-        {
-            var detallePedido = await _repository.GetByIdAsync(id);
-            if (detallePedido == null)
-            {
-                return NotFound();
-            }
-            return View(detallePedido);
-        }
 
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(DetallesPedidosModel model)
-        {
-            if (ModelState.IsValid)
-            {
-                await _repository.UpdateAsync(model);
-                return RedirectToAction(nameof(Index));
-            }
-            return View(model);
-        }
 
-        public async Task<IActionResult> Delete(int id)
-        {
-            var detallePedido = await _repository.GetByIdAsync(id);
-            if (detallePedido == null)
-            {
-                return NotFound();
-            }
-            return View(detallePedido);
-        }
+        //[Route("comprar/{id_producto}")]
+        //public async Task<IActionResult> Comprar(int id_producto)
+        //{
+        //    // Obtener detalles del producto
+        //    var producto = await _productoRepository.GetByIdAsync(id_producto);
+        //    if (producto == null)
+        //    {
+        //        return NotFound();
+        //    }
 
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(int id)
-        {
-            await _repository.DeleteAsync(id);
-            return RedirectToAction(nameof(Index));
-        }
+        //    // Crear detalle de pedido
+        //    var detallePedido = new DetallesPedidosModel
+        //    {
+        //        id_pedido = 1, // Debes manejar esto según tu lógica
+        //        id_producto = producto.id_producto,
+        //        cantidad = 1,
+        //        precio_unitario = producto.precio,
+        //    };
+
+        //    // Guardar el detalle en la base de datos
+        //    await _repository.InsertAsync(detallePedido);
+
+        //    // Redirigir a Home o a una vista de confirmación
+        //    return RedirectToAction("Index", "Home");
+        //}
     }
 }

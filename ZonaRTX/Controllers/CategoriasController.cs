@@ -1,7 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
-using ZonaRTX.Models;
-using ZonaRTX.data;
+﻿    using Microsoft.AspNetCore.Mvc;
+    using System.Threading.Tasks;
+    using ZonaRTX.Models;
+    using ZonaRTX.data;
 
 namespace ZonaRTX.Controllers
 {
@@ -44,11 +44,14 @@ namespace ZonaRTX.Controllers
         {
             if (ModelState.IsValid)
             {
+                // No es necesario asignar null a id_categoria
                 await _repository.InsertAsync(model);
                 return RedirectToAction(nameof(Index));
             }
             return View(model);
         }
+
+
 
         // Mostrar formulario para editar una categoría
         public async Task<IActionResult> Edit(int id)
@@ -67,13 +70,18 @@ namespace ZonaRTX.Controllers
         {
             if (ModelState.IsValid)
             {
+                // Verifica que el ID sea válido
+                if (model.id_categoria <= 0)
+                {
+                    return NotFound();
+                }
                 await _repository.UpdateAsync(model);
                 return RedirectToAction(nameof(Index));
             }
             return View(model);
         }
 
-        // Confirmar eliminación de una categoría
+
         public async Task<IActionResult> Delete(int id)
         {
             var categoria = await _repository.GetByIdAsync(id);
@@ -88,8 +96,17 @@ namespace ZonaRTX.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            await _repository.DeleteAsync(id);
-            return RedirectToAction(nameof(Index));
+            try
+            {
+                await _repository.DeleteAsync(id);
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                // Log el error y redirige a una página de error o muestra un mensaje en la misma vista.
+                Console.WriteLine($"Error al eliminar la categoría: {ex.Message}");
+                return View("Error", new ErrorViewModel { Message = "No se pudo eliminar la categoría." });
+            }
         }
     }
 }
