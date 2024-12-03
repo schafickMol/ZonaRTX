@@ -31,7 +31,7 @@ public class BaseRepository<T> : IBaseRepository<T>
         { "DetallesPedidosModel", "id_detalle" },
         { "PedidosModel", "id_pedido" },
         { "ProductosModel", "id_producto" },
-        { "ProductosProveedoresModel", "id_producto_proveedor" },
+        { "ProductosProveedoresModel", "id_producto" },
         { "ProveedoresModel", "id_proveedor" },
         { "UsuariosModel", "id_usuario" }
     };

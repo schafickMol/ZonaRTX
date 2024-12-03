@@ -1,38 +1,35 @@
 ﻿@model ZonaRTX.Models.ProductosProveedoresModel
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Eliminar Producto-Proveedor";
 }
 
-<h1>Delete</h1>
+<h1 class="text-center my-4">@ViewData["Title"]</h1>
 
-<h3>Are you sure you want to delete this?</h3>
-<div>
-    <h4>ProductosProveedoresModel</h4>
-    <hr />
-    <dl class="row">
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.id_producto)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.id_producto)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.id_proveedor)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.id_proveedor)
-        </dd>
-        <dt class = "col-sm-2">
-            @Html.DisplayNameFor(model => model.precio_compra)
-        </dt>
-        <dd class = "col-sm-10">
-            @Html.DisplayFor(model => model.precio_compra)
-        </dd>
-    </dl>
-    
-    <form asp-action="Delete">
-        <input type="submit" value="Delete" class="btn btn-danger" /> |
-        <a asp-action="Index">Back to List</a>
-    </form>
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body">
+                <h5 class="text-center mb-4">¿Estás seguro que deseas eliminar este registro?</h5>
+                <dl class="row">
+                    <dt class="col-sm-4">ID Producto</dt>
+                    <dd class="col-sm-8">@Model.id_producto</dd>
+
+                    <dt class="col-sm-4">ID Proveedor</dt>
+                    <dd class="col-sm-8">@Model.id_proveedor</dd>
+
+                    <dt class="col-sm-4">Precio de Compra</dt>
+                    <dd class="col-sm-8">@Model.precio_compra</dd>
+                </dl>
+                <form asp-action="Delete" method="post">
+                    <input type="hidden" asp-for="id_producto" />
+                    <input type="hidden" asp-for="id_proveedor" />
+                    <div class="d-flex justify-content-between">
+                        <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+                        <button type="submit" class="btn btn-danger">Eliminar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
 </div>
