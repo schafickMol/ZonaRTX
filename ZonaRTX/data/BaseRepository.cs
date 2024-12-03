@@ -18,7 +18,7 @@ public class BaseRepository<T> : IBaseRepository<T>
         { "DetallesPedidosModel", "DetallePedidos" },
         { "PedidosModel", "Pedidos" },
         { "ProductosModel", "Productos" },
-        { "ProductosProveedoresModel", "ProductoProveedores" },
+        { "ProductosProveedoresModel", "ProductosProveedores" },
         { "ProveedoresModel", "Proveedores" },
         { "UsuariosModel", "Usuarios" }
     };
@@ -78,26 +78,37 @@ public class BaseRepository<T> : IBaseRepository<T>
     {
         try
         {
+            // Obtener el nombre de la tabla
             var tableName = GetTableName();
-            var properties = typeof(T).GetProperties()
-                .Where(p => !p.Name.Equals("Id", StringComparison.OrdinalIgnoreCase)); // Excluir 'Id'
 
+            // Obtener el nombre de la columna de identidad
+            var idColumnName = IdColumnMap.ContainsKey(typeof(T).Name) ? IdColumnMap[typeof(T).Name] : "id";
+
+            // Filtrar las propiedades del modelo, excluyendo la columna de identidad
+            var properties = typeof(T).GetProperties()
+                .Where(p => !p.Name.Equals(idColumnName, StringComparison.OrdinalIgnoreCase)); // Excluir columna de id
+
+            // Construir las columnas y los valores
             var columns = string.Join(", ", properties.Select(p => p.Name));
             var values = string.Join(", ", properties.Select(p => $"@{p.Name}"));
 
-            var query = $"INSERT INTO {tableName} ({columns}) VALUES ({values})";
+            // Generar la consulta de inserción
+            var query = $"INSERT INTO {tableName} ({columns}) VALUES ({values});";
 
             using (var connection = _db.GetConnection())
             {
+                // Ejecutar la consulta y devolver el número de filas afectadas
                 return await connection.ExecuteAsync(query, entity);
             }
         }
         catch (SqlException ex)
         {
+            // Manejo de errores SQL
             Console.WriteLine($"Error: {ex.Message}");
             throw;
         }
     }
+
 
     // Actualizar un registro existente
     public async Task<int> UpdateAsync(T entity)

@@ -1,47 +1,42 @@
 ﻿@model IEnumerable<ZonaRTX.Models.CategoriasModel>
 
 @{
-    ViewData["Title"] = "Categorias";
+    ViewData["Title"] = "Categorías";
 }
 
-<h1>Index</h1>
+<h1 class="text-center my-4">@ViewData["Title"]</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
-<table class="table">
-    <thead>
+<div class="mb-4">
+    <a asp-action="Create" class="btn btn-success">
+        <i class="bi bi-plus-circle"></i> Crear Nueva Categoría
+    </a>
+</div>
+
+<table class="table table-hover table-striped">
+    <thead class="table-dark">
         <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.id_categoria)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.nombre_categoria)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.descripcion)
-            </th>
-            <th></th>
+            <th>@Html.DisplayNameFor(model => model.id_categoria)</th>
+            <th>@Html.DisplayNameFor(model => model.nombre_categoria)</th>
+            <th>@Html.DisplayNameFor(model => model.descripcion)</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.id_categoria)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.nombre_categoria)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.descripcion)
-            </td>
-            <td>
-                    @Html.ActionLink("Edit", "Edit", new { id = item.id_categoria }) |
-                    @Html.ActionLink("Details", "Details", new { id = item.id_categoria }) |
-                    @Html.ActionLink("Delete", "Delete", new { id = item.id_categoria })
-            </td>
-        </tr>
-}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => item.id_categoria)</td>
+                <td>@Html.DisplayFor(modelItem => item.nombre_categoria)</td>
+                <td>@Html.DisplayFor(modelItem => item.descripcion)</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.id_categoria" class="btn btn-warning btn-sm">
+                        <i class="bi bi-pencil-square"></i> Editar
+                    </a>
+                    <a asp-action="Delete" asp-route-id="@item.id_categoria" class="btn btn-danger btn-sm">
+                        <i class="bi bi-trash"></i> Eliminar
+                    </a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>

@@ -8,6 +8,7 @@
         public decimal precio { get; set; }
         public int id_categoria { get; set; }
         public DateTime? fecha_agregado { get; set; }
+        
     }
 
 }

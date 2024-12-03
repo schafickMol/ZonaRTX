@@ -3,156 +3,60 @@
   "WorkspaceRootPath": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\detallespedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\detallespedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\detallespedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\detallespedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\detallespedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\detallespedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\detallespedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\detallespedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\data\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:data\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\productos\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\productos\\iproductosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\productos\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\productos\\productosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\productosproveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productosproveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\productosproveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\productosproveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\pedidosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\inventariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\categoriasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\categoriasmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\data\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:data\\sqldataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\productosproveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\productosproveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\usuarios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\detallespedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\detallespedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -166,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,410 +78,98 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ProductosModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProductosModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
-              "RelativeToolTip": "Models\\ProductosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:49:34.069Z",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedores\\Index.cshtml",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proveedores\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswC0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T03:57:20.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\DetallesPedidos\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
-              "RelativeToolTip": "Views\\DetallesPedidos\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAC0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T19:22:07.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DetallesPedidosRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\DetallesPedidosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\DetallesPedidosRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\DetallesPedidosRepository.cs",
-              "RelativeToolTip": "Repositories\\DetallesPedidosRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAA3wC4AAABBAAAA",
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "Controllers\\ProveedoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:04:36.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "Controllers\\ProductosController.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAwFkAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:59:05.921Z",
+              "WhenOpened": "2024-12-03T03:56:24.742Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CompraController.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\CompraController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CompraController.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\CompraController.cs",
-              "RelativeToolTip": "Controllers\\CompraController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:35:53.061Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T01:28:28.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T01:28:28.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DetallesPedidosController.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\DetallesPedidosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DetallesPedidosController.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\DetallesPedidosController.cs",
-              "RelativeToolTip": "Controllers\\DetallesPedidosController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAmwEYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:18:19.291Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "data\\BaseRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
-              "RelativeToolTip": "data\\BaseRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC8AAABXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:47:59.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categorias\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Index.cshtml",
-              "RelativeToolTip": "Views\\Categorias\\Index.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T19:48:11.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "data\\IBaseRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\IBaseRepository.cs",
-              "RelativeToolTip": "data\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:23:37.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DetallesPedidosModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\DetallesPedidosModel.cs",
-              "RelativeDocumentMoniker": "Models\\DetallesPedidosModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\DetallesPedidosModel.cs",
-              "RelativeToolTip": "Models\\DetallesPedidosModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:34:11.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAvwBgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:40:14.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ProductosRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\Productos\\ProductosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Productos\\ProductosRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\Productos\\ProductosRepository.cs",
-              "RelativeToolTip": "Repositories\\Productos\\ProductosRepository.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAgwFQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:05:56.779Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IProductosRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\Productos\\IProductosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\Productos\\IProductosRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\Productos\\IProductosRepository.cs",
-              "RelativeToolTip": "Repositories\\Productos\\IProductosRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:06:50.08Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoriasController.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\CategoriasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\CategoriasController.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\CategoriasController.cs",
-              "RelativeToolTip": "Controllers\\CategoriasController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAowGUAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:47:45.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CategoriasRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CategoriasRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
-              "RelativeToolTip": "Repositories\\CategoriasRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:27:26.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T19:16:22.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\ProductosProveedores\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Index.cshtml",
-              "RelativeToolTip": "Views\\ProductosProveedores\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAuwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T01:57:27.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
               "Title": "PedidosModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
               "RelativeDocumentMoniker": "Models\\PedidosModel.cs",
               "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
               "RelativeToolTip": "Models\\PedidosModel.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:18:55.601Z"
+              "WhenOpened": "2024-12-03T03:52:40.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T01:28:23.298Z"
+              "DocumentIndex": 10,
+              "Title": "InventarioModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
+              "RelativeDocumentMoniker": "Models\\InventarioModel.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
+              "RelativeToolTip": "Models\\InventarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:35:52.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T01:28:24.799Z"
+              "DocumentIndex": 11,
+              "Title": "ProductosProveedoresModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductosProveedoresModel.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
+              "RelativeToolTip": "Models\\ProductosProveedoresModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:35:31.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T01:51:09.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Productos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Productos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAyAAAA",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\DetallesPedidos\\Index.cshtml",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
+              "RelativeToolTip": "Views\\DetallesPedidos\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwB4AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T15:49:18.964Z"
+              "WhenOpened": "2024-12-01T23:01:20.932Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Productos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Productos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAUwCMAAABTAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T15:49:56.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T01:28:57.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UsuariosRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\UsuariosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UsuariosRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\UsuariosRepository.cs",
-              "RelativeToolTip": "Repositories\\UsuariosRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:00:55.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 1,
               "Title": "ProveedoresRepository.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProveedoresRepository.cs",
               "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
               "RelativeToolTip": "Repositories\\ProveedoresRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAApAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:01:50.353Z"
+              "WhenOpened": "2024-12-03T03:44:41.414Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ProductosProveedoresRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProductosProveedoresRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProductosProveedoresRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProductosProveedoresRepository.cs",
-              "RelativeToolTip": "Repositories\\ProductosProveedoresRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:23:48.098Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "InventarioRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\InventarioRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InventarioRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\InventarioRepository.cs",
-              "RelativeToolTip": "Repositories\\InventarioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:04:42.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "PedidosRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\PedidosRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\PedidosRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\PedidosRepository.cs",
-              "RelativeToolTip": "Repositories\\PedidosRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:04:43.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CategoriasModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\CategoriasModel.cs",
-              "RelativeDocumentMoniker": "Models\\CategoriasModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\CategoriasModel.cs",
-              "RelativeToolTip": "Models\\CategoriasModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T22:02:15.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 6,
               "Title": "ProveedoresModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
               "RelativeDocumentMoniker": "Models\\ProveedoresModel.cs",
@@ -585,79 +177,97 @@
               "RelativeToolTip": "Models\\ProveedoresModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T15:58:00.61Z"
+              "WhenOpened": "2024-12-03T03:36:26.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "SqlDataAccess.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\SqlDataAccess.cs",
-              "RelativeDocumentMoniker": "data\\SqlDataAccess.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\SqlDataAccess.cs",
-              "RelativeToolTip": "data\\SqlDataAccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "DocumentIndex": 9,
+              "Title": "UsuariosModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuariosModel.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
+              "RelativeToolTip": "Models\\UsuariosModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:55:02.541Z"
+              "WhenOpened": "2024-12-03T03:38:13.698Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Productos\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Edit.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Productos\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABHAAAA",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAwwCUAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T16:38:16.513Z"
+              "WhenOpened": "2024-12-01T23:00:34.6Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Categorias\\Create.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Create.cshtml",
-              "RelativeToolTip": "Views\\Categorias\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABTAAAA",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T15:50:04.034Z"
+              "WhenOpened": "2024-12-01T22:58:44.147Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Usuarios\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Usuarios\\Create.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Usuarios\\Create.cshtml",
-              "RelativeToolTip": "Views\\Usuarios\\Create.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwCUAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T16:00:25.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ProductosProveedoresModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
-              "RelativeDocumentMoniker": "Models\\ProductosProveedoresModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
-              "RelativeToolTip": "Models\\ProductosProveedoresModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "data\\BaseRepository.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
+              "RelativeToolTip": "data\\BaseRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T16:14:07.482Z"
+              "WhenOpened": "2024-12-01T22:52:34.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 8,
+              "Title": "ProductosModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductosModel.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
+              "RelativeToolTip": "Models\\ProductosModel.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:40:23.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriasRepository.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoriasRepository.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoriasRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:55:31.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Categorias\\Delete.cshtml",
               "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Delete.cshtml",
               "RelativeToolTip": "Views\\Categorias\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-30T15:59:44.037Z"
+              "WhenOpened": "2024-12-01T22:50:13.316Z"
             }
           ]
         }
