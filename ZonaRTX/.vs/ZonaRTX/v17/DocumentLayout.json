@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\usuariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,33 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Proveedores\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
-              "RelativeToolTip": "Views\\Proveedores\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAswC0AAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-03T03:57:20.054Z",
+              "DocumentIndex": 1,
+              "Title": "UsuariosRepository.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\UsuariosRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuariosRepository.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\UsuariosRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuariosRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T03:17:35.973Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProveedoresController.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProveedoresController.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
-              "RelativeToolTip": "Controllers\\ProveedoresController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:56:24.742Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T03:07:27.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PedidosModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
               "RelativeDocumentMoniker": "Models\\PedidosModel.cs",
@@ -112,12 +120,11 @@
               "RelativeToolTip": "Models\\PedidosModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:52:40.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:52:40.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "InventarioModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
               "RelativeDocumentMoniker": "Models\\InventarioModel.cs",
@@ -125,12 +132,11 @@
               "RelativeToolTip": "Models\\InventarioModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:35:52.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:35:52.555Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ProductosProveedoresModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductosProveedoresModel.cs",
@@ -138,12 +144,48 @@
               "RelativeToolTip": "Models\\ProductosProveedoresModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:35:31.99Z",
+              "WhenOpened": "2024-12-03T03:35:31.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProveedoresRepository.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProveedoresRepository.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
+              "RelativeToolTip": "Repositories\\ProveedoresRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:44:41.414Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedoresController.cs",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "Controllers\\ProveedoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:56:24.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedores\\Index.cshtml",
+              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proveedores\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCcAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T03:57:20.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\DetallesPedidos\\Index.cshtml",
@@ -151,25 +193,11 @@
               "RelativeToolTip": "Views\\DetallesPedidos\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAgwB4AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T23:01:20.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:01:20.932Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProveedoresRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\ProveedoresRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
-              "RelativeToolTip": "Repositories\\ProveedoresRepository.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:44:41.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProveedoresModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
               "RelativeDocumentMoniker": "Models\\ProveedoresModel.cs",
@@ -177,12 +205,11 @@
               "RelativeToolTip": "Models\\ProveedoresModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:36:26.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:36:26.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "UsuariosModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
               "RelativeDocumentMoniker": "Models\\UsuariosModel.cs",
@@ -190,12 +217,11 @@
               "RelativeToolTip": "Models\\UsuariosModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:38:13.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:38:13.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -203,12 +229,11 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAwwCUAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T23:00:34.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T23:00:34.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -216,12 +241,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T22:58:44.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T22:58:44.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
               "RelativeDocumentMoniker": "data\\BaseRepository.cs",
@@ -229,12 +253,11 @@
               "RelativeToolTip": "data\\BaseRepository.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T22:52:34.451Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T22:52:34.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ProductosModel.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductosModel.cs",
@@ -242,12 +265,11 @@
               "RelativeToolTip": "Models\\ProductosModel.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T03:40:23.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T03:40:23.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "CategoriasRepository.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CategoriasRepository.cs",
@@ -259,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Categorias\\Delete.cshtml",
