@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\",
+  "WorkspaceRootPath": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,54 +22,122 @@
     {
       "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\productosproveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productosproveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\proveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\proveedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\productosproveedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productosproveedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\proveedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\proveedores\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\productosproveedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productosproveedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:data\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\data\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:data\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\proveedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\proveedores\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\productosproveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\productosproveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\proveedores\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\proveedoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\pedidosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\proveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\productosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\usuariosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\inventariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\models\\productosproveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\models\\productosproveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:models\\productosproveedoresmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\detallespedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\views\\detallespedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\detallespedidos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|d:\\u\\ciclo-02-24\\rtx\\zonartx\\zonartx\\repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:repositories\\categoriasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|c:\\desktop\\escritorio 2024\\ciclo 2\\bases de datos\\zonartx\\zonartx\\views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{300BACDB-7276-4B9A-B666-C9259CCD19DD}|ZonaRTX.csproj|solutionrelative:views\\categorias\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,6 +155,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "UsuariosRepository.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\UsuariosRepository.cs",
@@ -95,10 +165,126 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T03:17:35.973Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductosProveedores\\Create.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Create.cshtml",
+              "RelativeToolTip": "Views\\ProductosProveedores\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAuwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:58:06.27Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Create.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:56:20.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedores\\Create.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Create.cshtml",
+              "RelativeToolTip": "Views\\Proveedores\\Create.cshtml",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwDAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:55:58.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductosProveedores\\Delete.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Delete.cshtml",
+              "RelativeToolTip": "Views\\ProductosProveedores\\Delete.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:54:53.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedores\\Delete.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Proveedores\\Delete.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:52:35.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:18:50.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T04:17:30.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T04:17:29.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedores\\Index.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Index.cshtml",
+              "RelativeToolTip": "Views\\Proveedores\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T03:57:20.054Z",
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\appsettings.json",
@@ -108,15 +294,134 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-07T03:07:27.061Z",
+=======
+              "DocumentIndex": 7,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "data\\BaseRepository.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
+              "RelativeToolTip": "data\\BaseRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwCEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T22:52:34.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Proveedores\\Edit.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Proveedores\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Proveedores\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:36:06.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductosProveedores\\Edit.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Edit.cshtml",
+              "RelativeToolTip": "Views\\ProductosProveedores\\Edit.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwBAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:38:20.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\data\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "data\\IBaseRepository.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\data\\IBaseRepository.cs",
+              "RelativeToolTip": "data\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:44:23.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Delete.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T22:50:13.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Index.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:32:21.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\ProductosProveedores\\Index.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\ProductosProveedores\\Index.cshtml",
+              "RelativeToolTip": "Views\\ProductosProveedores\\Index.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:34:31.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-03T04:36:33.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProveedoresController.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "Controllers\\ProveedoresController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:56:24.742Z",
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 6,
+=======
+              "DocumentIndex": 20,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "PedidosModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
               "RelativeDocumentMoniker": "Models\\PedidosModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\PedidosModel.cs",
               "RelativeToolTip": "Models\\PedidosModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -124,11 +429,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 12,
+=======
+              "DocumentIndex": 25,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "InventarioModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
               "RelativeDocumentMoniker": "Models\\InventarioModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\InventarioModel.cs",
               "RelativeToolTip": "Models\\InventarioModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -136,11 +445,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 13,
+=======
+              "DocumentIndex": 26,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "ProductosProveedoresModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductosProveedoresModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\ProductosProveedoresModel.cs",
               "RelativeToolTip": "Models\\ProductosProveedoresModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -161,6 +474,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 4,
               "Title": "ProveedoresController.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Controllers\\ProveedoresController.cs",
@@ -186,10 +500,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
+=======
+              "DocumentIndex": 27,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\DetallesPedidos\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\DetallesPedidos\\Index.cshtml",
               "RelativeToolTip": "Views\\DetallesPedidos\\Index.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAgwB4AAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -197,11 +514,28 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
+=======
+              "DocumentIndex": 17,
+              "Title": "ProveedoresRepository.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProveedoresRepository.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Repositories\\ProveedoresRepository.cs",
+              "RelativeToolTip": "Repositories\\ProveedoresRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T03:44:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "ProveedoresModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
               "RelativeDocumentMoniker": "Models\\ProveedoresModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\ProveedoresModel.cs",
               "RelativeToolTip": "Models\\ProveedoresModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -209,11 +543,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 24,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "UsuariosModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
               "RelativeDocumentMoniker": "Models\\UsuariosModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\UsuariosModel.cs",
               "RelativeToolTip": "Models\\UsuariosModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,11 +559,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 5,
+=======
+              "DocumentIndex": 19,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAwwCUAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -233,11 +575,15 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 21,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -245,6 +591,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
               "Title": "BaseRepository.cs",
               "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\data\\BaseRepository.cs",
@@ -258,10 +605,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+=======
+              "DocumentIndex": 23,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "ProductosModel.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
               "RelativeDocumentMoniker": "Models\\ProductosModel.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Models\\ProductosModel.cs",
               "RelativeToolTip": "Models\\ProductosModel.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAAAxwAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -269,14 +619,19 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 15,
+=======
+              "DocumentIndex": 28,
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
               "Title": "CategoriasRepository.cs",
-              "DocumentMoniker": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
+              "DocumentMoniker": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\CategoriasRepository.cs",
-              "ToolTip": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
+              "ToolTip": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\Repositories\\CategoriasRepository.cs",
               "RelativeToolTip": "Repositories\\CategoriasRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2024-12-01T22:55:31.149Z"
             },
             {
@@ -290,6 +645,10 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-01T22:50:13.316Z"
+=======
+              "WhenOpened": "2024-12-01T22:55:31.149Z",
+              "EditorCaption": ""
+>>>>>>> e5192bbaee50fd9b403585f9c9524dd8c9075906
             }
           ]
         }

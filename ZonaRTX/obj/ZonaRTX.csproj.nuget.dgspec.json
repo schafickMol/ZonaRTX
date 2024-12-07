@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj": {}
+    "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj": {}
   },
   "projects": {
-    "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj": {
+    "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj",
+        "projectUniqueName": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj",
         "projectName": "ZonaRTX",
-        "projectPath": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj",
-        "packagesPath": "C:\\Users\\Juan Carlos Iglesias\\.nuget\\packages\\",
-        "outputPath": "C:\\Desktop\\Escritorio 2024\\Ciclo 2\\Bases de datos\\ZonaRTX\\ZonaRTX\\obj\\",
+        "projectPath": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\ZonaRTX.csproj",
+        "packagesPath": "C:\\Users\\chafm\\.nuget\\packages\\",
+        "outputPath": "D:\\U\\ciclo-02-24\\RTX\\ZonaRTX\\ZonaRTX\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Juan Carlos Iglesias\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chafm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +60,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[8.0.7, )"
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
@@ -81,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
